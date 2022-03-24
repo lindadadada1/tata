@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T14:13:57.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="bR5Swfk_OefvQmkXqFIQ" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T14:15:53.507Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="LITuKkefklB7P4n0gaLT" version="17.2.1" type="github">
   <diagram id="00MtoVXjWd5d-frnvjrM" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
         <mxCell id="vpJ0kvzyL-LAIBEurBCN-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.036;entryY=0.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vpJ0kvzyL-LAIBEurBCN-15" target="vpJ0kvzyL-LAIBEurBCN-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vpJ0kvzyL-LAIBEurBCN-43" value="获取服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vpJ0kvzyL-LAIBEurBCN-42">
+        <mxCell id="vpJ0kvzyL-LAIBEurBCN-43" value="获取/调用服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vpJ0kvzyL-LAIBEurBCN-42">
           <mxGeometry x="-0.0935" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
